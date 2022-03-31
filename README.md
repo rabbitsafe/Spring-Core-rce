@@ -4,9 +4,6 @@ Spring Core RCE 命令执行和webshell写入
 网上打码的利用截图
 
 
-Spring官方补丁链接如下：
-https://github.com/spring-projects/spring-framework/commit/7f7fb58dd0dae86d22268a4b59ac7c72a6c22529
-
 漏洞影响：
 jdk 版本在9及以上的
 使用了Spring Framework或衍生框架
